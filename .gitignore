@@ -1,0 +1,9 @@
+build*
+*.swp
+*.swo
+*.m~
+*.cpp~
+*.hpp~
+*.c~
+*.h~
+.DS_Store
